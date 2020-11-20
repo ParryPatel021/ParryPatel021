@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android Mobile Application Developement
 - 🌱 I’m currently learning Kotlin for Android
+- 👯 I’m looking to collaborate on Android Application Development
 - 😄 Pronouns: He/His
 
 
