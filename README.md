@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+https://www.showwcase.com/ParryPatel021
 -->
 
 - 🔭 I’m currently working on Android Mobile Application Developement
