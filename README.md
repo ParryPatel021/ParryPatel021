@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Mobile Application Developement
-- 🌱 I’m currently learning Kotlin for Android 
+- 🔭 I’m currently working on Android Mobile Application development
+- 🌱 I’m currently learning Jetpack Compose, Unit Testing, CI/CD
 - 👯 I’m looking to collaborate on Android Application Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 https://www.showwcase.com/ParryPatel021
 -->
 
-- 🔭 I’m currently working on Android Mobile Application Developement
-- 🌱 I’m currently learning Kotlin for Android
+- 🔭 I’m currently working on Android Mobile Application development
+- 🌱 I’m currently learning Jetpack Compose, Unit Testing, CI/CD
 - 👯 I’m looking to collaborate on Android Application Development
 - 😄 Pronouns: He/His
 
